@@ -1,0 +1,10 @@
+databaseChangeLog:
+    - changeSet: 
+        author: jsouzadev
+        id: create tables
+        changes:
+        - tagDatabase:
+            tag: create tables
+        - sqlFile:
+            path: scripts/001.DDL.sql
+            relativeToChangelogFile: true
