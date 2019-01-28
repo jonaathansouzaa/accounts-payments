@@ -47,3 +47,4 @@ Regra:
 | superior 3 dias | 3%            | 0.2%          |
 | superior 5 dias | 5%            | 0.3%          |
 
+➔ A quantidade de dias em atraso e a regra de para o cálculo devem ser persistidos.
